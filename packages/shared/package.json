@@ -1,0 +1,13 @@
+{
+  "name": "@boilerplate/shared",
+  "version": "1.0.0",
+  "description": "shared package of boilerplate",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "dreitagebart <stefan.buechold@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
